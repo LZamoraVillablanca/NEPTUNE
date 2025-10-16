@@ -27,9 +27,9 @@ body {
 
 .logo {
   position: absolute;
-  top: 20vh;
-  left: 4vw;
-  width: clamp(200px, 40vw, 900px);
+  top: 0vh;
+  left: 0vw;
+  width: clamp(200px, 38vw, 900px);
   height: auto;
 }
 
